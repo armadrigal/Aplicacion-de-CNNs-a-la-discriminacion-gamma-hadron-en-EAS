@@ -1,2 +1,2 @@
-# Aplicacion-de-CNNs-a-la-discriminacion-gamma-hadron-en-EAS
+# Aplicación de redes neuronales convolucionales a la discriminación gamma-hadrón en chubascos atmosféricos
 Tesis de Maestría en Ciencias Físicas
