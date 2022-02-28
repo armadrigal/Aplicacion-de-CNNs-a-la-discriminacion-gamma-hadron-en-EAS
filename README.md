@@ -1,9 +1,8 @@
 # Aplicación de redes neuronales convolucionales a la discriminación gamma-hadrón en chubascos atmosféricos
 Tesis de Maestría en Ciencias Físicas
 
-\chapter*{RESUMEN}
-\pagenumbering{Roman} 
-\setcounter{page}{4}
+#RESUMEN
+
 
 Las observaciones de rayos gamma de alta energía provenientes del espacio exterior, se basan en experimentos en tierra que permiten detectar partículas secundarias de chubascos atmosféricos (EAS, por sus siglas en inglés) inducidos por rayos cósmicos de alta energía. Sin embargo, el obstáculo en la observación de fuentes de rayos gamma, es el gran fondo de rayos cósmicos de origen hadrónico. Es por ello la importancia de poder identificar cuales EAS son inducidos por rayos gamma y cuales por hadrones.\\
 En este trabajo se propone un modelo computacional de inteligencia artificial basado en redes neuronales convolucionales (RNC) para la discriminación de EAS inducidos por rayos gamma o hadrones (partículas primarias), a partir de su huella al piso, es decir, en base a las partículas secundarias observadas en tierra. Se aborda este problema como un problema clasificación en el contexto del aprendizaje supervisado. Se proponen dos casos de estudio: la discriminación entre el tipo de partícula primaria (gamma o hadrón) y su energía a partir del EAS inducido.\\
